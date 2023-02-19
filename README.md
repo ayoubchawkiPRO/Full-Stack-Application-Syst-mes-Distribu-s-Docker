@@ -1,4 +1,4 @@
-# Full-Stack-Application-Syst-mes-Distribu-s-Docker
+# Full-Stack-Application-Systémes-Distribués-Docker
 Projet-JEE-CLOUD
 # application-based-architecture-micro-service
 Activité Pratique du Contrôle " Ayoub Chawki "
@@ -84,6 +84,13 @@ application-based-architecture-micro-service!
   * [1 Setup](#1-setup)
   * [2 Postman](#2-postman)
   * [3 Client Auth Credentials](#3-client-auth-credentials)
+# IV. KAFKA :
+  * [1 Supplier](#1-supplier)
+  * [2 Consumer](#2-Consumer)
+  * [3 Kafka streams ](#3-Kafka-streams )
+
+
+# V. DOCKER :
   * * [4 gitHub](#5-gitHub)
 
 
