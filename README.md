@@ -204,8 +204,28 @@ Sécuriser les micro-services et le frontend angular en déployant les adaptateu
 
 ## 3 Client Auth Credentials
 ![image](https://user-images.githubusercontent.com/97169668/207485486-56a7e099-ad40-43ad-bc73-c008b5828548.png)
-## 4 gitHub
+
+# IV KAFKA STREAM
+![image](https://user-images.githubusercontent.com/97169668/219981114-f2815688-ec19-4eab-a7db-3fc4764faba0.png)
+![Capturea](https://user-images.githubusercontent.com/97169668/219981355-6f776a7d-ed6c-4c2c-9657-0d74ff47af63.PNG)
+![image](https://user-images.githubusercontent.com/97169668/219981771-3a513d6c-2b4a-4fb8-8c17-6c4ded88a170.png)
+![image](https://user-images.githubusercontent.com/97169668/219982313-29f1133d-c14c-4bf4-848a-f8647c2f19ad.png)
+![image](https://user-images.githubusercontent.com/97169668/219982285-8254ac0b-31c0-46a9-8901-2f226922c755.png)
+
+# V DOCKER
+Déployer l'ensemble des services de l'application en utilisant des conteneur Docker : 
+Créer les images Docker pour chaque service 
+Créer un Dockerfile pour chaque service : Un Dockerfile est un fichier de configuration qui définit les instructions pour créer une image Docker. Il contient des instructions pour copier les fichiers nécessaires, installer les dépendances et configurer le service.
+( docker build ) pour construire l'image Docker
+![image](https://user-images.githubusercontent.com/97169668/219982523-c5f26ffe-1e45-4910-a029-e005591fbe59.png)
+![image](https://user-images.githubusercontent.com/97169668/219982607-d4b5047b-a7ef-44be-9c61-e0b31672ed88.png)
+![image](https://user-images.githubusercontent.com/97169668/219982858-cc756972-162c-406d-a0ee-3533431bac2c.png)
+et le fichier Docker-compose.yml qui permet de déployer toute l'application
+![image](https://user-images.githubusercontent.com/97169668/219982657-2981f7ee-ff8a-4a67-8911-d7df50063099.png)
+
+## 4 gitHub GIT
 ![Capturefdfd](https://user-images.githubusercontent.com/97169668/207427939-fb8293ca-672d-49a3-a415-43f809b95d6e.PNG)
+![image](https://user-images.githubusercontent.com/97169668/219982903-fe225e4f-78e6-4ecc-8344-d095aaff89f8.png)
 
 ![Capturefvf](https://user-images.githubusercontent.com/97169668/207427944-128880eb-dc02-4da5-9191-241aed38435c.PNG)
 ### Installation
