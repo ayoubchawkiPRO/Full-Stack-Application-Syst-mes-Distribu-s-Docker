@@ -1,0 +1,18 @@
+[submodule "billing-service"]
+	path = billing-service
+	url = https://github.com/ayoubchawkiPRO/billing-service.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/ayoubchawkiPRO/gateway.git
+[submodule "demo-springcloud-streams-kafka"]
+	path = demo-springcloud-streams-kafka
+	url = https://github.com/ayoubchawkiPRO/demo-springcloud-streams-kafka.git
+[submodule "ecommerce-webapp_Micro-services_Spring-Cloud"]
+	path = ecommerce-webapp_Micro-services_Spring-Cloud
+	url = https://github.com/ayoubchawkiPRO/ecommerce-webapp_Micro-services_Spring-Cloud.git
+[submodule "eureka-discovery"]
+	path = eureka-discovery
+	url = https://github.com/ayoubchawkiPRO/eureka-discovery.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = https://github.com/ayoubchawkiPRO/inventory-service.git
